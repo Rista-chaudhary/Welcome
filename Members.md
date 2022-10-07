@@ -1,6 +1,13 @@
 # Members 🙌
 These are the amazing people who have took a step forward to help me get this goal done. I thank each and everyone from the bottom of my heart. ❤
  
+  - __Name__: Rista Chaudhary 
+__Country__: India  
+__About__: This is Rista chaudhary from Delhi. I am a self made coder. I am always eager to work on challenging projects.
+__Tech Stack__: HTML, CSS, JavaScript, React Js,  Linux,  VS Code, BootStrap, Figma.
+__Social Handles__:  [GitHub](https://github.com/Rista-chaudhary) | [Email](mailto:rista.chaudhary.dev@gmail.com) | [LinkedIn]
+(https://www.linkedin.com/in/rista-chaudhary-630a25237/) 
+ 
  - __Name__: Nitish Awasthi  
 __Country__: India  
 __About__: A CSE guy who loves experimenting with new technologies, building small projects, a programming enthusiast, and an open-source contributor.  
